@@ -1,0 +1,4 @@
+USE bd2
+GO
+
+CREATE FULLTEXT CATALOG [products_catalog] AS DEFAULT
